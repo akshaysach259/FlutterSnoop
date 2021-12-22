@@ -1,0 +1,8 @@
+enum StatusCode{
+  SAVED,
+  ERROR,
+  UPDATED,
+  ALREADYEXISTS,
+  DOESNOTEXISTS,
+  DELETED
+}
